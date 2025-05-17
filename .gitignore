@@ -1,2 +1,2 @@
 # No ignorar archivos .jars
-\BackEnd\APIGateway\target\
+*/target/*
