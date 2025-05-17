@@ -1,0 +1,2 @@
+# No ignorar archivos .jars
+!target/
