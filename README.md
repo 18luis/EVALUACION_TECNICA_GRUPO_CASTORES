@@ -26,9 +26,11 @@ Abrir nuevo CMD y ubicarse en la carpeta donde descargo este repositorio y ejecu
 java -jar ".\BackEnd\ModuloInventario-0.0.1-SNAPSHOT.jar"
 
 Tener instalado Node.js
-Abrir nuevo CMD ubicarse en la carpeta donde descargo este repositorio y ejecutar estos comandos:
+Abrir nuevo CMD ubicarse en la carpeta donde descargo este repositorio y ejecutar estos comandos secuencialmente:
 cd ".\FrontEnd\SistemaDeInventarioPaginaWeb"
+
 npm install
+
 npm run dev
 
 NO CERRAR NINGUNA VENTANA DE CMD
