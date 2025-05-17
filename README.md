@@ -52,4 +52,12 @@ npm run dev
 
 NO CERRAR NINGUNA VENTANA DE CMD
 Abrir cualquier navegador y acceder a esta url: http://localhost:5173/
+
+IMPORTANTE:
+USAR USUARIO CON ROL DE ADMINISTRADOR: Juan Perez
+CON CONTRASEÑA: root
+
+USAR USUARIO CON ROL DE ALMACENISTA: Luis Roberto
+CON CONTRASEÑA: root
+
 LISTO!!!
