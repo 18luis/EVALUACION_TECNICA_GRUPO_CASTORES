@@ -13,17 +13,17 @@ Abrir nuevo CMD y ubicarse en la carpeta donde descargo este repositorio y ejecu
 
 Para poder desplegar los microservicios: 
 Abrir nuevo CMD y ubicarse en la carpeta donde descargo este repositorio y ejecutar secuencialmente estos comandos:
-java -jar ".\BackEnd\ServicioEureka\target\ServicioEureka-0.0.1-SNAPSHOT.jar"
+java -jar ".\BackEnd\ServicioEureka-0.0.1-SNAPSHOT.jar"
 ----> (IMPORTANTE DESPUES DE EJECUTAR EL COMANDO DE ARRIBA ESPERAR 10 SEGUNDOS!!!!) <----
 
 Abrir nuevo CMD y ubicarse en la carpeta donde descargo este repositorio y ejecutar secuencialmente estos comandos:
-java -jar ".\BackEnd\APIGateway\target\api-gateway-0.0.1-SNAPSHOT.jar"
+java -jar ".\BackEnd\api-gateway-0.0.1-SNAPSHOT.jar"
 
 Abrir nuevo CMD y ubicarse en la carpeta donde descargo este repositorio y ejecutar secuencialmente estos comandos:
-java -jar ".\BackEnd\ServicioAutenticacion\target\ServicioAutenticacion-0.0.1-SNAPSHOT.jar"
+java -jar ".\BackEnd\ServicioAutenticacion-0.0.1-SNAPSHOT.jar"
 
 Abrir nuevo CMD y ubicarse en la carpeta donde descargo este repositorio y ejecutar secuencialmente estos comandos:
-java -jar ".\BackEnd\ModuloInventario\target\ModuloInventario-0.0.1-SNAPSHOT.jar"
+java -jar ".\BackEnd\ModuloInventario-0.0.1-SNAPSHOT.jar"
 
 Tener instalado Node.js
 Abrir nuevo CMD ubicarse en la carpeta donde descargo este repositorio y ejecutar estos comandos:
